@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accueil.html",
+    "currentPage": "Réglement.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -200,8 +200,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SAVOIR OSER LA SOLIDARITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RUN FOR THEM</a> "
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/ecofest-2000x633.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/green-dot-24162-960-2000x2083.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -210,13 +210,13 @@
                 "showTitle": true,
                 "title": "NOUS SOMMES... <br>ECO-RESPONSABLES",
                 "showText": true,
-                "text": "SOS détient le label Ecofest, signe de son engagement pour la préservation de l'environnement lors de l'organisation de la Run For Them.",
+                "text": "SOS détient le label Ecofest, décerné par l'association Impact, signe de son engagement pour la préservation de l'environnement lors de l'organisation de la Run For Them.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/fondation-du-souffle-2000x2044.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/cropped-couverture-fondation-du-souffle-2000x705.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -710,7 +710,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dossards-running-2000x1428.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dco51-2000x1603.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
