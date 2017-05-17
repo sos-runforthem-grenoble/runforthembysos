@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Réglement.html",
+    "currentPage": "Accueil.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -216,7 +216,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/cropped-couverture-fondation-du-souffle-2000x705.png",
+                "image": "@PROJECT_PATH@/assets/images/fdsouffle-2000x1413.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -710,7 +710,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dco51-2000x1603.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1311913-course-pied-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
