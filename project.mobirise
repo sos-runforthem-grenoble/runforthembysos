@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accueil.html",
+    "currentPage": "Réglement.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -216,7 +216,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/fdsouffle-2000x1413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fondation-du-souffle-cigarette-electronique-2000x1076.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -710,7 +710,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1311913-course-pied-2000x1338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/run-in-lyon-running-course-a-pied-marathon-2000x1050.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
