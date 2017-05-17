@@ -522,12 +522,15 @@ h6,
 #pricing-table2-c .mbr-price-value {
   color: #41a85f;
 }
-#msg-box1-f H2 {
-  text-align: left;
+#msg-box8-1f .mbr-section-title,
+#msg-box8-1f p {
+  color: #fff;
 }
-#msg-box1-f H3 {
-  text-align: left;
+#msg-box8-1f .lead P {
   color: #41a85f;
+}
+#msg-box8-1f .mbr-section-title {
+  color: #ffffff;
 }
 
 #menu-10 .hide-buttons .nav-btn {
@@ -597,6 +600,13 @@ h6,
   font-size: 46px;
 }
 
+#msg-box8-1g .mbr-section-title,
+#msg-box8-1g p {
+  color: #fff;
+}
+#msg-box8-1g .lead {
+  color: #ffffff;
+}
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }

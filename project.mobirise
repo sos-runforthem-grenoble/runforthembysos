@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Partenaires.html",
+    "currentPage": "Accueil.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128.png",
     "noImageResize": ""
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "header1",
@@ -186,27 +186,11 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/logo6-2000x2000.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "overlayColor": "#000000",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<span style=\"line-height: 1.1;\">NOUS SOMMES...</span><br>LA FONDATION DU SOUFFLE",
-                "showText": true,
-                "text": "Tous les fonds récoltés par le projet Run For Them sont reversés à la fondation du souffle, qui lutte contre les maladies respiratoires.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.lesouffle.org/\" data-toolbar=\"-mbrBtnMove\">FONDATION DU SOUFFLE</a> "
-              },
-              {
-                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/18278950-10211350884161716-8039641673484236485-o-2000x538.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "NOUS SOMMES ... SOS",
@@ -221,7 +205,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.4",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "NOUS SOMMES... <br>ECO-RESPONSABLES",
@@ -229,6 +213,22 @@
                 "text": "SOS détient le label Ecofest, signe de son engagement pour la préservation de l'environnement lors de l'organisation de la Run For Them.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/logo6-2000x2000.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"line-height: 1.1;\">NOUS SOMMES...</span><br>LA FONDATION DU SOUFFLE",
+                "showText": true,
+                "text": "Tous les fonds récoltés par le projet Run For Them sont reversés à la fondation du souffle, qui lutte contre les maladies respiratoires.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://www.lesouffle.org/\" data-toolbar=\"-mbrBtnMove\">FONDATION DU SOUFFLE</a> "
               }
             ],
             "fullScreen": true,
@@ -327,68 +327,69 @@
           "title2": "10 KM",
           "subtitle2": "",
           "currency2": "€",
-          "price2": "12",
+          "price2": "-",
           "period2": "",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">DJKMJKM</span></ul>",
+          "description2": "Inscription en ligne avant le",
+          "list2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INSCRIPTION</a>",
           "label3": "HOT!",
           "title3": "5 KM",
           "subtitle3": "",
           "currency3": "€",
-          "price3": "8",
+          "price3": "-",
           "period3": "",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB DAZEFDERF</li></ul>",
+          "description3": "Inscription en ligne avant le",
+          "list3": "<ul class=\"list-group list-group-flush\"></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">INSCRIPTION</a>",
           "label4": "HOT!",
           "title4": "2 KM",
           "subtitle4": "",
           "currency4": "",
-          "price4": "GRATUIT",
+          "price4": "-&nbsp;",
           "period4": "",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 DZEDFARF</li></ul>",
+          "description4": "Inscription en ligne avant le",
+          "list4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">INSCRIPTION</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#41a85f"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left",
-              "color": "#41a85f"
-            }
-          },
-          "_anchor": "msg-box1-f",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1f",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/y-grenoblois-2000x1965.png",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": true,
-            "showTitle": true
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Parc Paul Mistral Grenoble",
-          "title": "ACCES"
+          "title": "ACCES",
+          "text": "<p><b>Parc Paul Mistral - Grenoble</b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -412,8 +413,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -425,7 +426,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-sos-transparent-vert.gif",
+              "src": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -557,13 +558,18 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "46px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -675,12 +681,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1a",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "46px"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
@@ -690,6 +691,43 @@
         "meta_descr": "Web Generator Description"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sans-titre-2000x1335.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "REGLEMENT",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Le réglement de la course sera très prochainement publié.</b></span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -776,7 +814,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -802,8 +840,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-k",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -865,8 +903,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -961,7 +999,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -987,8 +1025,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-n",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1053,8 +1091,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1149,7 +1187,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -1175,8 +1213,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-q",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1241,8 +1279,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1337,7 +1375,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -1363,8 +1401,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-t",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1426,8 +1464,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1522,7 +1560,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -1548,8 +1586,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-w",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1611,8 +1649,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1707,7 +1745,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -1733,8 +1771,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-z",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1858,7 +1896,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box1-f\">COMMENT VENIR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "footer1",
@@ -1884,8 +1922,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-12",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
