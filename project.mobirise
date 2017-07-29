@@ -216,7 +216,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/fondation-du-souffle-cigarette-electronique-2000x1076.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo6-1-2000x2000.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
