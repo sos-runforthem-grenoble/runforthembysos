@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Réglement.html",
+    "currentPage": "Accueil.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 53,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
