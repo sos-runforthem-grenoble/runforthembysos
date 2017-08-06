@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Réultats.html",
+    "currentPage": "Accueil.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -65,13 +65,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fed730"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fede54!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fee163"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "header1",
@@ -613,6 +613,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "",
@@ -720,7 +721,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -905,7 +906,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1093,7 +1094,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1281,7 +1282,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1466,7 +1467,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1828,7 +1829,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mdailles-2000x1332.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1836,7 +1837,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -1873,13 +1874,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1901,7 +1902,7 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
