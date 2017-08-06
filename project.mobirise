@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accueil.html",
+    "currentPage": "Réultats.html",
     "name": "La run for them by SOS",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128-1.png",
     "noImageResize": ""
@@ -65,13 +65,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#fed730"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#fede54!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#fee163"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -93,7 +93,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -104,7 +104,7 @@
             "fontHoverColor": "#c0a375",
             "transparent": true,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": false
@@ -112,10 +112,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/sos-run-for-them-126x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -124,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Accueil.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LA RUN FOR THEM BY SOS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Accueil.html#map1-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INFOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#slider-d\">QUI SOMMES NOUS ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Réglement.html\">REGLEMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Programme.html\">PROGRAMME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#msg-box8-1f\">COMMENT VENIR ?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Partenaires.html\">PARTENAIRES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Accueil.html#contacts1-g\">CONTACTS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COURSES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 10 Km.html\">PARCOURS 10 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 5 Km.html\">PARCOURS 5 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parcours 2 Km.html\">PARCOURS 2 KM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ravitaillements.html\">RAVITAILLEMENTS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://savoiroserlasolidarite.org/lassociation/\" aria-expanded=\"false\" target=\"_blank\">ASSOCIATION SOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Réultats.html\" aria-expanded=\"false\">RESULTATS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Accueil.html#pricing-table2-c\">INSCRIPTION</a></li>"
         },
         {
           "_name": "header1",
@@ -152,8 +154,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
@@ -186,7 +188,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/18278950-10211350884161716-8039641673484236485-o-2000x538.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18278950-10211350884161716-8039641673484236485-o-1-2000x538.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -200,8 +202,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SAVOIR OSER LA SOLIDARITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RUN FOR THEM</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/green-dot-24162-960-2000x2083.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/pastille-se-faire-auditer-1-2000x1969.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -215,7 +217,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/logo6-1-2000x2000.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -381,7 +383,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
@@ -426,13 +428,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/4sgisbfj-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-dtour-128x125.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "http://savoiroserlasolidarite.org/lassociation/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -496,13 +498,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -527,7 +529,7 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -718,7 +720,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -755,13 +757,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -783,7 +785,7 @@
           "_name": "menu",
           "_anchor": "menu-i",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -903,7 +905,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -940,13 +942,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -968,7 +970,7 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -1091,7 +1093,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1128,13 +1130,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1156,7 +1158,7 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -1279,7 +1281,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1316,13 +1318,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1344,7 +1346,7 @@
           "_name": "menu",
           "_anchor": "menu-r",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -1464,7 +1466,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1501,13 +1503,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1529,7 +1531,7 @@
           "_name": "menu",
           "_anchor": "menu-u",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -1649,7 +1651,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1686,13 +1688,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#f4ce34"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#f6d755!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#f7da64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1714,7 +1716,7 @@
           "_name": "menu",
           "_anchor": "menu-x",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#f7da64",
             "fontSize": "0.8",
             "fontName": {
               "name": "Montserrat",
@@ -1810,6 +1812,40 @@
         "meta_descr": "Web Creator Description"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "RESULTATS",
+          "text": "<p>Les résultats de l'édition 2017 ne sont pas encore publiés.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
